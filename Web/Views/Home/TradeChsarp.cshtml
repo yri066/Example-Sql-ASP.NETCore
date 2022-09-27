@@ -1,0 +1,18 @@
+﻿@using WebApi.Model
+@model Trade
+@{
+	ViewData["Title"] = "Trade C#";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Получение сделки с помощью C#</p>
+
+@if (Model != null)
+{
+	<span>Cумма сделки: @Model.Amount</span><br>
+	<span>Дата сделки: @Model.Created</span>
+}
+else
+{
+	<span>Последняя сделка не найдена</span>
+}
