@@ -57,6 +57,6 @@
 ```C#
 public class Trade
 {
-    public decimal Amount
-    public DateTime Created
+    public decimal Amount;
+    public DateTime Created;
 }
