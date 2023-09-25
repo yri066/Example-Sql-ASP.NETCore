@@ -1,4 +1,4 @@
-
+[![codebeat badge](https://codebeat.co/badges/f883bd03-ba9f-4d93-9e93-53dd98db8e34)](https://codebeat.co/projects/github-com-yri066-example-sql-asp-netcore-main)
 
 1. Описание базы данных
 
